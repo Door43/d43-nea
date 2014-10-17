@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nea:home|Door43 (nea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nea|d43-nea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nea/archive/master.zip|d43-nea.zip]]
+
+**Recent Changes**
+{{changes>ns = nea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nea|Ethnologue data]]
+
